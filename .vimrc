@@ -1,7 +1,7 @@
 set number        " for strings
-set expandtab     " changes tabs on spaces 
+"set expandtab     " changes tabs on spaces 
 set smarttab      " when you press a tab 
-set shiftwidth=4  " ^---> vim puts ${shiftwidth} spaces
+set shiftwidth=8  " ^---> vim puts ${shiftwidth} spaces
 set tabstop=8     " number of spaces in a real tab, (i Ctrl + V Tab)
 set softtabstop=1 " number of spaces to remove when deleting a tab
 set listchars=tab:>-
