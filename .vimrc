@@ -8,3 +8,8 @@ set listchars=tab:>-
 "set list
 "set mouse=a
 "set fileformat=
+syntax on     "overrides settings
+"syntax enable "keeps your color settings
+"Specific File TYPE
+"set filetype=php
+"set ft=php
